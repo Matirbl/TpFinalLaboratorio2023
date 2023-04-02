@@ -1,0 +1,84 @@
+{
+  "instruments": [
+    {
+      "textoDeFondo": "Apocalypse",
+      "titulo": "E - 7 Schecter Apocalypse",
+      "imagen": "imagenes/Instrumentos Populares/E7ApocRR-large.jpg",
+      "fecha": "29/11/21",
+      "descripcion": "La Schecter E-7 Apocalypse es una guitarra electrica de cuerpo sólido robusto construida por expertos para lograr una velocidad increíble junto a un gran tono.",
+      "boton": "https://www.schecterguitars.com/guitars/e-7-apocalypse-red-reign-detail#reviews"
+    },
+    {
+      "textoDeFondo": "KORG Nautilus",
+      "titulo": "KORG Nautilus",
+      "imagen": "imagenes/Instrumentos Populares/KorgNautilus.jpg",
+      "fecha": "28/11/21",
+      "descripcion": "NAUTILUS supera los límites de lo que un sintetizador de interpretación y workstation puede hacer. Con la potencia de nueve motores impulsando un nuevo enfoque de sonidos, completo sampling.",
+      "boton": "https://www.korg.com/ar/products/synthesizers/nautilus/"
+    },
+    {
+      "textoDeFondo": "Zildjian Mega Doom",
+      "titulo": "Mega Doom",
+      "imagen": "imagenes/Instrumentos Populares/Platillo_zildjian.png",
+      "fecha": "27/11/21",
+      "descripcion": "Un platillo monstruoso de 22 que brama golpes oscuros y  complejos con proyección infinita para cualquier aplicación en interiores o exteriores",
+      "boton": "https://zildjian.com/cymbals/drumset/concept-shop/22-mega-doom.html"
+    },
+    {
+      "textoDeFondo": "Player-plus",
+      "titulo": "Fender Player plus Jazz Bass",
+      "imagen": "imagenes/Instrumentos Populares/Bajo_Fender.jpg",
+      "fecha": "25/11/21",
+      "descripcion": "Con su juego de pastillas Jazz Bass Player Plus Noiseless, el Player Plus Jazz Bass brinda la claridad y el retumbar característicos que definen el sonido de graves de Fender",
+      "boton": "https://www.fender.com/es/electric-series/player-plus/basses/player-plus-jazz-bass/0147372370.html"
+    },
+    {
+      "textoDeFondo": "RG530DXZ",
+      "titulo": "Ibanez RG530DXZ",
+      "imagen": "imagenes/Instrumentos Populares/RG350DXZ.jpg",
+      "fecha": "24/11/21",
+      "descripcion": "Por su atractivo acabado, su excelente relación calidad/precio y el parecido con sus hermanas mayores, las JEM, esta guitarra se está extendiendo entre las manos de compradores de nivel principiante y medio.",
+      "boton": "https://www.ibanez.com/na/products/detail/rg350dxz_1p_04.html"
+    },
+    {
+      "textoDeFondo": "YAMAHA YTS - 82Z",
+      "titulo": "Yamaha YTS-82Z",
+      "imagen": "imagenes/Instrumentos Populares/Saxo.jpeg",
+      "fecha": "23/11/21",
+      "descripcion": "Un sonido potente y la capacidad de tocar pasajes rápidos sin dificultad, la Z está diseñada para satisfacer sus más altas expectativas.",
+      "boton": "https://es.yamaha.com/es/products/musical_instruments/winds/saxophones/yts-82z/index.html"
+    },
+    {
+      "textoDeFondo": "Flautas de resina ABS",
+      "titulo": "Flautas dulces de resina ABS",
+      "imagen": "imagenes/Instrumentos Populares/Flauta.jpeg",
+      "fecha": "22/11/21",
+      "descripcion": "Las flautas dulces de resina ABS son duraderas y fáciles de mantener a la vez que proporcionan un sonido similar al de la madera natural.",
+      "boton": "https://es.yamaha.com/es/products/musical_instruments/winds/recorders/abs_resin_alto/index.html"
+    },
+    {
+      "textoDeFondo": "V10G/V10SG",
+      "titulo": "Yamaha V10G",
+      "imagen": "imagenes/Instrumentos Populares/Violin.jpeg",
+      "fecha": "21/11/21",
+      "descripcion": "El V10G es un violín inspirado en Guarneri que produce un sonido rico y dulce, pero potente. Cada instrumento tiene un acabado minucioso con un barniz de aceite especialmente formulado que le da una apariencia hermosa y un tono más cálido",
+      "boton": "https://mx.yamaha.com/es/products/musical_instruments/strings/ac_strings/v10g_10sg/downloads.html"
+    },
+    {
+      "textoDeFondo": "Pearl Duoluxe",
+      "titulo": "Pearl Snare Drums Duoluxe",
+      "imagen": "imagenes/Instrumentos Populares/Redo.jpeg",
+      "fecha": "20/11/21",
+      "descripcion": "Una fórmula clásica de Pearl para un sonido de caja excepcional. Experimente el sonido de Júpiter con un nuevo aspecto dinámico.",
+      "boton": "https://pearldrum.com/global/node/1371711"
+    },
+    {
+      "textoDeFondo": "strandberg",
+      "titulo": "strandberg",
+      "fecha": "19/11/21",
+      "imagen": "imagenes/Instrumentos Populares/Strandberg.jpg",
+      "descripcion": "Las nuevas especificaciones y características se consideraron e implementaron cuidadosamente con el futuro en mente, tanto estética como funcionalmente. ",
+      "boton": "https://strandbergguitars.com/"
+    }
+  ]
+}
